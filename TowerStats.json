@@ -38,6 +38,45 @@
             }
         ]
     },
+     "M.X.E.S": {
+        "Type": "AOE + Glitched",
+        "Image": "rbxassetid://125588619221809",
+        "Rarity": "Apex",
+        "PlacePrice": 18000,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 45,   
+                "Damage": 50000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 50,
+                "Damage": 65000,
+                "Cooldown": 1,5
+            }
+        ]
+    },
      "Nightmare Bot": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
