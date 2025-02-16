@@ -122,9 +122,9 @@
                 "Cooldown": 0.5,
                 "Slow": 0.70,
                 "SlowTime": 1
-            }
-     ]
-},
+    }
+        ]
+    },
  "Ruined Glamrock Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://85309483901437",
