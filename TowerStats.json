@@ -635,6 +635,51 @@
     },
 
 
+
+ "Da Kronas": {
+        "Type": "SUS",
+        "Image": "rbxassetid://100601250963714",
+        "Rarity": "Developer",
+        "PlacePrice": 1,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 999,
+                "Damage": 9999999999,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 9999,
+                "Damage": 99999999999999,
+                "Cooldown": 0.03
+            }
+        ]
+    },
+
+
+
+    
+
  "M.X.E.S": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://125588619221809",
