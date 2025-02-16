@@ -38,6 +38,50 @@
             }
         ]
     },
+     "Candy Cadet": {
+        "Type": "Cooldown Boost",
+        "Image": "rbxassetid://104356297194309",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 700,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.78
+            },
+            {
+                "Price": 900,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.72
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.67
+            }
+        ]
+    },
      "Villian Arc Freddy": {
         "Type": "Villian Arc",
         "Image": "rbxassetid://93152502234662",
