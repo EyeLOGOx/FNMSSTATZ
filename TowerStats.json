@@ -505,6 +505,54 @@
 
 
 
+
+
+
+ "8-Bit OMC": {
+        "Type": "AOE",
+        "Image": "rbxassetid://78679487650695",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Double Trouble", "Description": "Deal +33% damage if on the same team as OMC or OMK."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1134,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22222,
+                "Range": 25,
+                "Damage": 1555,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 33333,
+                "Range": 28,
+                "Damage": 1877,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44444,
+                "Range": 30,
+                "Damage": 2333,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+
+
+
+    
+
   "Injured Kissy Missy": {
         "Type": "Splash + Passive",
         "Image": "rbxassetid://126544318135387",
