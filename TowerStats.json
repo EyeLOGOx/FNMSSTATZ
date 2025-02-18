@@ -507,7 +507,53 @@
 
 
 
+    
 
+   "Time Paradox Freddy": {
+        "Type": "AOE + Time Paradox",
+        "Image": "rbxassetid://138496242972158",
+        "Rarity": "Forgotten",
+        "PlacePrice": 8500,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,   
+                "Damage": 10000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 35,
+                "Damage": 15000,
+                "Cooldown": 0.8         
+            }
+        ]
+    },
+
+
+
+
+
+    
  "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
