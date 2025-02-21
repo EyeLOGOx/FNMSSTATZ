@@ -422,11 +422,11 @@
         ]
     },
        "Yarnaby": {
-        "Type": "Claws + Bite",
+        "Type": "Splash",
         "Image": "rbxassetid://104355055730059",
         "Rarity": "Apex",
-        "PlacePrice": 5000,
-        "Max": 8,
+        "PlacePrice": 20000,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": { 
             "X": 0, 
@@ -437,26 +437,26 @@
             {
                 "Price": 0,
                 "Range": 45,   
-                "Damage": 25000,
-                "Cooldown": 0.12
+                "Damage": 45000,
+                "Cooldown": 3
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 30000,
+                "Range": 45,
+                "Damage": 50000,
+                "Cooldown": 2.9
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 33000,
+                "Range": 48,
+                "Damage": 52000,
+                "Cooldown": 2.9
             },
             {
-                "Price": 1250,
+                "Price": 40000,
                 "Range": 50,
-                "Damage": 35000,
-                "Cooldown": 0.09
+                "Damage": 60000,
+                "Cooldown": 2.8
             }
         ]
     },
@@ -640,11 +640,11 @@
     },
 
      "Injured Huggy Wuggy": {
-        "Type": "Splash + Passive",
+        "Type": "Splash",
         "Image": "rbxassetid://98214224647578",
         "Rarity": "Apex",
         "PlacePrice": 10000,
-        "Max": 8,
+        "Max": 2,
         "Offset": 0.3,
         "hitboxOffset": { 
             "X": 0, 
@@ -654,27 +654,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,   
-                "Damage": 20000,
-                "Cooldown": 1
+                "Range": 35,   
+                "Damage": 100,
+                "Cooldown": 0.01
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1250,
+                "Price": 20000,
                 "Range": 35,
-                "Damage": 30000,
-                "Cooldown": 0.8         
+                "Damage": 150,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 200,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 40000,
+                "Range": 50,
+                "Damage": 350,
+                "Cooldown": 0.01    
             }
         ]
     },
