@@ -464,7 +464,7 @@
     
 
        "Pianosaurus": {
-        "Type": "Claws + Bite",
+        "Type": "Pierce",
         "Image": "rbxassetid://105578836970601",
         "Rarity": "Nightmare",
         "PlacePrice": 8500,
@@ -479,26 +479,26 @@
             {
                 "Price": 0,
                 "Range": 25,   
-                "Damage": 10000,
-                "Cooldown": 1
+                "Damage": 6500,
+                "Cooldown": 1.5
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 7000,
+                "Cooldown": 1.5
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 11000,
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 1.2
             },
             {
-                "Price": 1250,
+                "Price": 12000,
                 "Range": 35,
-                "Damage": 15000,
-                "Cooldown": 0.8         
+                "Damage": 8000,
+                "Cooldown": 1     
             }
         ]
     },
@@ -510,11 +510,11 @@
     
 
    "Time Paradox Freddy": {
-        "Type": "AOE + Time Paradox",
+        "Type": "AOE",
         "Image": "rbxassetid://138496242972158",
         "Rarity": "Forgotten",
-        "PlacePrice": 8500,
-        "Max": 8,
+        "PlacePrice": 17000,
+        "Max": 4,
         "Offset": 0.3,
         "hitboxOffset": { 
             "X": 0, 
@@ -524,27 +524,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,   
-                "Damage": 10000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
+                "Range": 20,   
                 "Damage": 50,
-                "Cooldown": 1
+                "Cooldown": 0.05
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.05
             },
             {
-                "Price": 1250,
-                "Range": 35,
-                "Damage": 15000,
-                "Cooldown": 0.8         
+                "Price": 22000,
+                "Range": 25,
+                "Damage": 150,
+                "Cooldown": 0.09
+            },
+            {
+                "Price": 28000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.1       
             }
         ]
     },
@@ -730,7 +730,7 @@
         "Image": "rbxassetid://94236060313272",
         "Rarity": "ERROR",
         "PlacePrice": 35000,
-        "Max": 8,
+        "Max": 1,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0, 
@@ -742,25 +742,25 @@
                 "Price": 0,
                 "Range": 50,
                 "Damage": 95000,
-                "Cooldown": 1
+                "Cooldown": 4
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 50000,
+                "Range": 50,
+                "Damage": 100000,
+                "Cooldown": 4
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 65000,
+                "Range": 52,
+                "Damage": 110000,
+                "Cooldown": 4
             },
             {
-                "Price": 1250,
+                "Price": 88000,
                 "Range": 60,
                 "Damage": 135000,
-                "Cooldown": 0.9
+                "Cooldown": 3
             }
         ]
     },
@@ -1042,22 +1042,22 @@
                 "Cooldown": 0.15
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 8300,
+                "Cooldown": 0.10
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 28000,
+                "Range": 25,
+                "Damage": 8500,
+                "Cooldown": 0.09
             },
             {
-                "Price": 1250,
+                "Price": 32000,
                 "Range": 30,
                 "Damage": 9500,
-                "Cooldown": 0.09
+                "Cooldown": 0.08
             }
         ]
     },
