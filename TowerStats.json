@@ -983,7 +983,7 @@
 
     
     "Golden Frostbear": {
-        "Type": "Splash + Passive",
+        "Type": "Burst",
         "Image": "rbxassetid://91465428259285",
         "Rarity": "Golden",
         "PlacePrice": 600,
@@ -1002,19 +1002,19 @@
                 "Cooldown": 1
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 1300,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 0.9
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 0.8
             },
             {
-                "Price": 1250,
+                "Price": 6000,
                 "Range": 30,
                 "Damage": 7500,
                 "Cooldown": 0.85
