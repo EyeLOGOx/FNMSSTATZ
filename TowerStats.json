@@ -553,6 +553,49 @@
 
 
 
+  "Freddy...?": {
+        "Type": "AOE",
+        "Image": "rbxassetid://87439764908503",
+        "Rarity": "???",
+        "PlacePrice": 666,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,   
+                "Damage": 900,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 666,
+                "Range": 50,
+                "Damage": 950,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 6666,
+                "Range": 55,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 66666,
+                "Range": 60,
+                "Damage": 1250,
+                "Cooldown": 0.1  
+            }
+        ]
+    },
+
+    
+
+
     
  "8-Bit OMC": {
         "Type": "AOE",
