@@ -1142,6 +1142,50 @@
             }
         ]
     },
+
+
+
+   "MLISRANDOM": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://103091236253881",
+        "Rarity": "Apex",
+        "PlacePrice": 11000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 0.10
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 8300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 28000,
+                "Range": 25,
+                "Damage": 8500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 32000,
+                "Range": 30,
+                "Damage": 9500,
+                "Cooldown": 0.04
+            }
+        ]
+    },
+
+    
     "Golden Shadow": {
         "Type": "AOE + Shadow",
         "Image": "rbxassetid://106482120995170",
