@@ -642,9 +642,9 @@
          "Frisk": {
         "Type": "Pierce",
         "Image": "rbxassetid://129051616942113",
-        "Rarity": "Apex",
-        "PlacePrice": 15000,
-        "Max": 1,
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 4,
         "Offset": 0.3,
         "hitboxOffset": { 
             "X": 0, 
@@ -655,26 +655,26 @@
             {
                 "Price": 0,
                 "Range": 25,   
-                "Damage": 10,
-                "Cooldown": 0.0001
+                "Damage": 1500,
+                "Cooldown": 0.8
             },
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 13,
-                "Cooldown": 0.0001
+                "Damage": 1800,
+                "Cooldown": 0.7
             },
             {
                 "Price": 11000,
                 "Range": 30,
-                "Damage": 15,
-                "Cooldown": 0.0001
+                "Damage": 2000,
+                "Cooldown": 0.6
             },
             {
                 "Price": 12000,
                 "Range": 35,
-                "Damage": 17,
-                "Cooldown": 0.00005  
+                "Damage": 2500,
+                "Cooldown": 0.5
             }
         ]
     },
