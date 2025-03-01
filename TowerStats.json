@@ -614,31 +614,70 @@
             {
                 "Price": 0,
                 "Range": 25,   
-                "Damage": 1,
+                "Damage": 10,
                 "Cooldown": 0.0001
             },
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 1,
+                "Damage": 13,
                 "Cooldown": 0.0001
             },
             {
                 "Price": 11000,
                 "Range": 30,
-                "Damage": 1,
+                "Damage": 15,
                 "Cooldown": 0.0001
             },
             {
                 "Price": 12000,
                 "Range": 35,
-                "Damage": 1,
-                "Cooldown": 0.0005  
+                "Damage": 17,
+                "Cooldown": 0.00005  
             }
         ]
     },
 
-    
+
+         "Frisk": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://16695605399",
+        "Rarity": "Apex",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,   
+                "Damage": 10,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 13,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 11000,
+                "Range": 30,
+                "Damage": 15,
+                "Cooldown": 0.0001
+            },
+            {
+                "Price": 12000,
+                "Range": 35,
+                "Damage": 17,
+                "Cooldown": 0.00005  
+            }
+        ]
+    },
 
    "Time Paradox Freddy": {
         "Type": "AOE",
@@ -655,26 +694,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,   
-                "Damage": 50,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 1000,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 1300,
-                "Range": 25,
+                "Range": 30,   
                 "Damage": 150,
                 "Cooldown": 0.05
             },
             {
-                "Price": 2000,
-                "Range": 30,
+                "Price": 1000,
+                "Range": 35,
                 "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 1300,
+                "Range": 40,
+                "Damage": 250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 2000,
+                "Range": 45,
+                "Damage": 300,
                 "Cooldown": 0.05      
             }
         ]
