@@ -598,7 +598,7 @@
 
 
 
-      "Sans The Skeleton": {
+      "Sans": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://16695605399",
         "Rarity": "Apex",
@@ -639,7 +639,7 @@
     },
 
 
-         "Frisk": {
+         "The Human": {
         "Type": "Pierce",
         "Image": "rbxassetid://129051616942113",
         "Rarity": "Secret",
