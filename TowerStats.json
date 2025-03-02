@@ -234,7 +234,45 @@
 
 
 
-
+ "Goliath Endo Bemmy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://122989594704140",
+        "Rarity": "Forgotten",
+        "PlacePrice": 40000,
+        "Offset": 0.5,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 150000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 20000,
+                "Range": 43,
+                "Damage": 200000,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 230000,
+                "Cooldown": 3.4
+            },
+            {
+                "Price": 30000,
+                "Range": 50,
+                "Damage": 280000,
+                "Cooldown": 3
+            }
+        ]
+    },
 
 
 
