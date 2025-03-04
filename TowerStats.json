@@ -636,10 +636,10 @@
 
 
 
-      "Good Time Sans": {
+      "Sanz": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://16695605399",
-        "Rarity": "Apex",
+        "Rarity": "Developer",
         "PlacePrice": 15000,
         "Max": 1,
         "Offset": 0.3,
@@ -677,10 +677,10 @@
     },
 
 
-         "The Human": {
+         "Frizk": {
         "Type": "Pierce",
         "Image": "rbxassetid://129051616942113",
-        "Rarity": "Secret",
+        "Rarity": "Developer",
         "PlacePrice": 300,
         "Max": 4,
         "Offset": 0.3,
@@ -720,10 +720,10 @@
 
 
 
-         "The Great Papyrus": {
+         "Papyrus": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://109923673614644",
-        "Rarity": "Apex",
+        "Rarity": "Developer",
         "PlacePrice": 8000,
         "Max": 3,
         "Offset": 0.3,
