@@ -310,6 +310,97 @@
 
 
 
+     "Unknow": {
+        "Type": "Single",
+        "Image": "rbxassetid://91713220730268",
+        "Rarity": "Apex",
+        "PlacePrice": 650,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 55,   
+                "Damage": 8500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 60,
+                "Damage": 9000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 23000,
+                "Range": 65,
+                "Damage": 10000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 70,
+                "Damage": 20000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+
+
+
+
+
+
+
+     "Shadow Balloon Boy": {
+        "Type": "Explosion + Splash",
+        "Image": "rbxassetid://140716600229834",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,   
+                "Damage": 8500,
+                "Cooldown": 4
+            },
+            {
+                "Price": 20000,
+                "Range": 45,
+                "Damage": 9000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 23000,
+                "Range": 50,
+                "Damage": 10000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 25000,
+                "Range": 55,
+                "Damage": 15000,
+                "Cooldown": 4
+            }
+        ]
+    },
+
+
+
+
+    
+
  "Fredbear Plushie": {
         "Type": "AOE",
         "Image": "rbxassetid://93602949395787",
