@@ -225,14 +225,133 @@
 
 
 
+  "Sparky": {
+        "Type": "Single",
+        "Image": "rbxassetid://88834046264665",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,   
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 21,
+                "Damage": 210,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 22,
+                "Damage":230,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 26,
+                "Damage": 270,
+                "Cooldown": 0.75
+            }
+        ]
+    },
 
 
 
 
+ "Gl1tch3d B0nn1e": {
+        "Type": "AOE",
+        "Image": "rbxassetid://99955540021695",
+        "Rarity": "Forgotten",
+        "PlacePrice": 9500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 55,   
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 60,
+                "Damage": 7000,
+                "Cooldown": 0.07
+            },
+            {
+                "Price": 23000,
+                "Range": 65,
+                "Damage": 7500,
+                "Cooldown": 0.06
+            },
+            {
+                "Price": 25000,
+                "Range": 70,
+                "Damage": 8500,
+                "Cooldown": 0.05
+            }
+        ]
+    },
 
 
 
+ "Fredbear Plushie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://93602949395787",
+        "Rarity": "Apex",
+        "PlacePrice": 9500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 45,   
+                "Damage": 2000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 10000,
+                "Range": 50,
+                "Damage": 3000,
+                "Cooldown": 0.07
+            },
+            {
+                "Price": 15000,
+                "Range": 55,
+                "Damage": 3500,
+                "Cooldown": 0.06
+            },
+            {
+                "Price": 20000,
+                "Range": 60,
+                "Damage": 4500,
+                "Cooldown": 0.05
+            }
+        ]
+    },
 
+
+    
 
  "Goliath Endo Bemmy": {
         "Type": "AOE",
