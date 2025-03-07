@@ -2832,6 +2832,11 @@
             }
         ]
     },
+
+
+
+
+    
     "Plane Boy": {
         "Type": "Continuous",
         "Image": "rbxassetid://17689713814",
@@ -11556,7 +11561,7 @@
         ]
     },
     "Coffee": {
-        "Type": "Damage + Cooldown Boost",
+        "Type": "Damage Boost",
         "Image": "rbxassetid://131733393221448",
         "Rarity": "Forgotten",
         "PlacePrice": 400,
@@ -11576,7 +11581,7 @@
                 "Damage": 0,
                 "Cooldown": 0.5,
                 "CooldownBoost": 0.9,
-                "DamageBoost": 1.1,
+                "DamageBoost": 2.9,
                 "Wither": 1.05,
                 "ShinyWither": 1.1,
                 "WitherTime": 1
@@ -11587,7 +11592,7 @@
                 "Damage": 0,
                 "Cooldown": 0.5,
                 "CooldownBoost": 0.85,
-                "DamageBoost": 1.15,
+                "DamageBoost": 3,
                 "Wither": 1.05,
                 "ShinyWither": 1.1,
                 "WitherTime": 1
@@ -11598,7 +11603,7 @@
                 "Damage": 0,
                 "Cooldown": 0.5,
                 "CooldownBoost": 0.8,
-                "DamageBoost": 1.2,
+                "DamageBoost": 3.3,
                 "Wither": 1.05,
                 "ShinyWither": 1.1,
                 "WitherTime": 1
@@ -11609,7 +11614,7 @@
                 "Damage": 0,
                 "Cooldown": 0.5,
                 "CooldownBoost": 0.73,
-                "DamageBoost": 1.27,
+                "DamageBoost": 4,
                 "Wither": 1.05,
                 "ShinyWither": 1.1,
                 "WitherTime": 1
