@@ -211,6 +211,79 @@
             }
         ]
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "Old Man Nebula": {
+        "Type": "galactic + Passive",
+        "Image": "rbxassetid://84765402025547",
+        "Rarity": "Forgotten",
+        "PlacePrice": 32000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "SuperNova", "Description": "unit explodes when base health 20 or smaller killing every enemy on map with one shot "},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 12500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 20000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 24000,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     "Sorcerer Ennard": {
         "Type": "Splash",
         "Image": "rbxassetid://108071824061545",
